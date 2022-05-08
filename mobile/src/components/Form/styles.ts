@@ -34,7 +34,8 @@ export const styles = StyleSheet.create({
       borderRadius: 4,
       borderWidth: 1,
       borderColor: theme.colors.stroke,
-      fontFamily: theme.fonts.regular
+      fontFamily: theme.fonts.regular,
+      color: theme.colors.text_primary
   },
   footer: {
       flexDirection: 'row',
